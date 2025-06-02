@@ -89,7 +89,7 @@ Whether you're running promotions or testing viral loops, this bot gives you the
 
 
 ## Key Stats:
-- **Automation Accuracy:** 98%.
+- **Automation Accuracy:** 98%
 - **Session Stability:** 24/7 uptime
 - **Concurrent Account Management:** Up to 500 sessions
 - **Action Randomization Effectiveness:** 99% human detection evasion
